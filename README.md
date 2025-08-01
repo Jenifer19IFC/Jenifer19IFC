@@ -1,6 +1,6 @@
 ## Olá, eu sou a Jênifer Vieira Goedert! 
 
-- 📒 Acadêmica Bacharel em Ciência da Computação - IFC 
+- 📒 Bacharel em Ciência da Computação - IFC 
  
 <div align="center">
   <a href="https://github.com/Jenifer19IFC">
