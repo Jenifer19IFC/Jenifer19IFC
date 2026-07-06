@@ -1,24 +1,49 @@
-## Olá, eu sou a Jênifer Vieira Goedert! 
+# Hi, I'm Jenifer Vieira Goedert
 
-- 📒 Bacharel em Ciência da Computação - IFC 
- 
-<div align="center">
-  <a href="https://github.com/Jenifer19IFC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenifer19IFC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenifer19IFC&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" >
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" >
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" >
-</div>
-   
- ## 
-  
-<div>
-  <a href="https://www.instagram.com/jenifer_goedert/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jenifergoedert10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jenifer-goedert-658191185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Backend Software Developer with experience in enterprise systems, ERP development, system integration and business process automation.
+
+Bachelor's Degree in Computer Science from Instituto Federal Catarinense (IFC).  
+Currently building expertise in Artificial Intelligence, Machine Learning and Predictive Analytics.
+
+---
+
+## About me
+
+- Software Developer working with enterprise ERP solutions
+- Experience with Backend Development, System Integration and Requirements Analysis
+- Interested in Artificial Intelligence, Fuzzy Logic, Machine Learning and scalable software solutions
+- Focused on building solutions with purpose and real business impact
+
+---
+
+## Tech Stack
+
+**Languages:** Java, Python, PHP, SQL  
+**Backend & Systems:** REST APIs, ERP Development, System Integration  
+**Databases:** Oracle Database, MySQL, MongoDB  
+**Tools:** Docker, Git, GitHub, Linux  
+**AI & Data:** Artificial Intelligence, Fuzzy Logic, Data Analysis, Machine Learning fundamentals
+
+---
+
+## Featured Projects
+
+### Mental Disorder Diagnosis with Fuzzy Logic
+Knowledge-based AI system using Fuzzy Logic and Python to support clinical decision-making through explainable fuzzy inference.
+
+### Distributed Shopping List System
+Distributed shopping list application using Python, REST APIs, Docker and MongoDB, applying service scheduling, data replication and fault tolerance concepts.
+
+### Concurrent Excel Processing System
+Java client-server application that processes Excel files concurrently using sockets and the Executor Framework to automate business data analysis.
+
+### Australia Rainfall Data Analysis
+Data analysis pipeline for 145,000 Australian weather records using Python, applying preprocessing, statistical analysis and visualization to identify rainfall patterns.
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenifer%20Goedert-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jenifer-goedert)
+[![GitHub](https://img.shields.io/badge/GitHub-Jenifer19IFC-181717?style=for-the-badge&logo=github)](https://github.com/Jenifer19IFC)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenifergoedert10@gmail.com)
