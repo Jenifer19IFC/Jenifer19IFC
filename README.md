@@ -26,22 +26,6 @@ Currently building expertise in Artificial Intelligence, Machine Learning and Pr
 
 ---
 
-## Featured Projects
-
-### Mental Disorder Diagnosis with Fuzzy Logic
-Knowledge-based AI system using Fuzzy Logic and Python to support clinical decision-making through explainable fuzzy inference.
-
-### Distributed Shopping List System
-Distributed shopping list application using Python, REST APIs, Docker and MongoDB, applying service scheduling, data replication and fault tolerance concepts.
-
-### Concurrent Excel Processing System
-Java client-server application that processes Excel files concurrently using sockets and the Executor Framework to automate business data analysis.
-
-### Australia Rainfall Data Analysis
-Data analysis pipeline for 145,000 Australian weather records using Python, applying preprocessing, statistical analysis and visualization to identify rainfall patterns.
-
----
-
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenifer%20Goedert-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jenifer-goedert)
