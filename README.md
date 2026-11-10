@@ -1,29 +1,29 @@
-# Hi, I'm Jenifer Vieira Goedert
+# Hi, I'm Jênifer Goedert 
 
-Backend Software Developer with experience in enterprise systems, ERP development, system integration and business process automation.
+**Backend Software Engineer** · Python · Java · REST APIs · ERP & System Integrations
+Rio do Sul, Brazil 
 
-Bachelor's Degree in Computer Science from Instituto Federal Catarinense (IFC).  
-Currently building expertise in Artificial Intelligence, Machine Learning and Predictive Analytics.
+I build ERP solutions, RESTful APIs and integrations that connect business operations to banks, tax compliance platforms and government systems. 3+ years in software development.
 
----
+### Highlights
+- Built the ERP integration with the Narwal container-tracking platform: **98% of shipping containers tracked in real time**
+- Cut export document printing by **70%+** with a digital document management solution
+- Built a print management module that reduced request processing time by **30%**
+- Banking integrations, payment automation, reverse factoring and Thomson Reuters ONESOURCE Tax One integration
 
-## About me
+### Featured projects
+| Project | Stack |
+|---|---|
+| [Distributed Shopping List System](https://github.com/Jenifer19IFC/sistema-distribuido-lista-compras): layered distributed app with dynamic scheduler and MongoDB replication for fault tolerance | Python · REST · RPC · MongoDB · Docker |
+| [Handwritten Digit Classification](https://github.com/Jenifer19IFC/SCTEC-Mini-Projeto-MD2): KNN, Random Forest and MLP on MNIST, served via Streamlit app and API | Python · scikit-learn · Streamlit · Docker |
+| Concurrent Excel Processing via Sockets: client-server app that processes sales spreadsheets concurrently (article on Medium) | Java · Sockets · Executor Framework |
+| Cognitive Performance Prediction: ML pipeline on 100K records, R² 0.88 | Python · pandas · scikit-learn |
 
-- Software Developer working with enterprise ERP solutions
-- Experience with Backend Development, System Integration and Requirements Analysis
-- Interested in Artificial Intelligence, Fuzzy Logic, Machine Learning and scalable software solutions
-- Focused on building solutions with purpose and real business impact
+### Tech stack
+`Python` `Java` `SQL` `GeneXus` `REST APIs` `Oracle Database` `MongoDB` `Docker` `Git` `scikit-learn`
 
----
-
-## Tech Stack
-
-**Languages:** Java, Python, PHP, SQL  
-**Backend & Systems:** REST APIs, ERP Development, System Integration  
-**Databases:** Oracle Database, MySQL, MongoDB  
-**Tools:** Docker, Git, GitHub, Linux  
-**AI & Data:** Artificial Intelligence, Fuzzy Logic, Data Analysis, Machine Learning fundamentals
-
+### Education
+B.Sc. in Computer Science, IFC (2025) · AI Development for Predictive Analytics, SENAI (2026) · Certified GeneXus Junior Analyst
 ---
 
 ## Connect with me
