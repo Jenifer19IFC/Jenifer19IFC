@@ -16,8 +16,8 @@ I build ERP solutions, RESTful APIs and integrations that connect business opera
 |---|---|
 | [Distributed Shopping List System](https://github.com/Jenifer19IFC/sistema-distribuido-lista-compras): layered distributed app with dynamic scheduler and MongoDB replication for fault tolerance | Python · REST · RPC · MongoDB · Docker |
 | [Handwritten Digit Classification](https://github.com/Jenifer19IFC/SCTEC-Mini-Projeto-MD2): KNN, Random Forest and MLP on MNIST, served via Streamlit app and API | Python · scikit-learn · Streamlit · Docker |
-| Concurrent Excel Processing via Sockets: client-server app that processes sales spreadsheets concurrently (article on Medium) | Java · Sockets · Executor Framework |
-| Cognitive Performance Prediction: ML pipeline on 100K records, R² 0.88 | Python · pandas · scikit-learn |
+| [Concurrent Excel Processing via Sockets](https://medium.com/@jenifergoedert10/processamento-concorrencial-de-arquivos-excel-e-análise-de-dados-de-filiais-via-socket-8b6dda42b71d): client-server app that processes sales spreadsheets concurrently (article on Medium) | Java · Sockets · Executor Framework |
+| [Cognitive Performance Prediction](https://github.com/Jenifer19IFC/SCTEC-Projeto-MD1): ML pipeline on 100K records, R² 0.88 | Python · pandas · scikit-learn |
 
 ### Tech stack
 `Python` `Java` `SQL` `GeneXus` `REST APIs` `Oracle Database` `MongoDB` `Docker` `Git` `scikit-learn`
